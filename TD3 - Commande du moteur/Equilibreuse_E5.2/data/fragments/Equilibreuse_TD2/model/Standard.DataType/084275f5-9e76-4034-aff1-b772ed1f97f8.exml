@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="QObject *" version="4">
+  <OBJECT>
+    <ID name="QObject *" mc="Standard.DataType" uid="084275f5-9e76-4034-aff1-b772ed1f97f8"/>
+    <PID name="Qt" mc="Standard.Package" uid="4f56d6ba-d5f3-4874-ad0f-e5b034ef5ef0"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">true</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[QObject *]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

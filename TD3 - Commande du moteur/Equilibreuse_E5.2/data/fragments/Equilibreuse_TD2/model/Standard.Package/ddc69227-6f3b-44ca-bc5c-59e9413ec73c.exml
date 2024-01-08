@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ul" version="4">
+  <OBJECT>
+    <ID name="ul" mc="Standard.Package" uid="ddc69227-6f3b-44ca-bc5c-59e9413ec73c"/>
+    <PID name="Equilibreuse_TD2" mc="Standard.Project" uid="ed4d6b82-3f36-4746-9e38-3ffe47c01126"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ul]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="DigitalDirection" mc="Standard.DataType" uid="11bdb9ce-5812-4b44-94f6-5b5ab6aad77d"/>
+        <COMPID name="DigitalPortType" mc="Standard.DataType" uid="71a4157c-8aa8-4cc4-9e45-1ca49e474d20"/>
+        <COMPID name="UlError" mc="Standard.DataType" uid="a21e9a6d-9fa4-4e37-9999-359e78e7aed2"/>
+        <COMPID name="DioInfoItem" mc="Standard.DataType" uid="07ad62f9-1b7a-44c8-9b46-2f5b5494c808"/>
+        <COMPID name="MccUldaq" mc="Standard.Class" uid="88a4eb45-e828-4862-bf7c-622f543fe9d1"/>
+        <COMPID name="DaqDevice" mc="Standard.Class" uid="e57192af-8388-47e3-97c7-552c23d1b03b"/>
+        <COMPID name="DioDevice" mc="Standard.Class" uid="f1c40bbd-dac6-4825-9a7b-ce2d5f9c1e42"/>
+        <COMPID name="AOutFlags" mc="Standard.DataType" uid="0ee5b798-eb2e-414b-927c-4bace7278d4f"/>
+        <COMPID name="AoDevice" mc="Standard.Class" uid="b771b838-2184-484e-8491-e4be888f729e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

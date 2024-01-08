@@ -1,0 +1,56 @@
+<configuration>
+<general>
+<etablissement>Lycée Polyvalent Touchard-Washington</etablissement>
+<vitesse>2000</vitesse>
+<chemin>D:/Equilibreuse/data_set</chemin>
+<lecteurPDF>
+C:/Program Files (x86)/Adobe/Acrobat Reader DC/Reader/AcroRd32.exe
+</lecteurPDF>
+</general>
+<palier id="A">
+<jauge>
+<modele>MB-25</modele>
+<date>09-22-1998</date>
+<numero>C30629</numero>
+<capacite>25</capacite>
+<sensibilite>3.348</sensibilite>
+</jauge>
+<conditionneur>
+<tensionPleineEchelle>10</tensionPleineEchelle>
+<calibrage>3</calibrage>
+</conditionneur>
+<filtre>
+<gain>
+<coef>-0.01039</coef>
+<ordonnee>0.75443</ordonnee>
+</gain>
+<dephasage>
+<coef>-1.53311</coef>
+<ordonnee>-16.91160</ordonnee>
+</dephasage>
+</filtre>
+</palier>
+<palier id="O">
+<jauge>
+<modele>MB-25</modele>
+<date>10-05-1998</date>
+<numero>C30637</numero>
+<capacite>25</capacite>
+<sensibilite>3.328</sensibilite>
+</jauge>
+<conditionneur>
+<tensionPleineEchelle>10</tensionPleineEchelle>
+<calibrage>3</calibrage>
+</conditionneur>
+<filtre>
+<gain>
+<coef>-0.01039</coef>
+<ordonnee>0.75443</ordonnee>
+</gain>
+<dephasage>
+<coef>-1.53311</coef>
+<ordonnee>-16.91160</ordonnee>
+</dephasage>
+</filtre>
+</palier>
+</configuration>

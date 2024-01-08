@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Equilibreuse TD3" version="4">
+  <OBJECT>
+    <ID name="Equilibreuse TD3" mc="Standard.Package" uid="8f220ab5-d511-44fe-b35e-f5f88bac73b1"/>
+    <PID name="Equilibreuse" mc="Standard.Project" uid="ed4d6b82-3f36-4746-9e38-3ffe47c01126"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Equilibreuse TD3]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Surveiller état capot" mc="Standard.Interaction" uid="c79494ee-be97-48c9-9d96-f54e9147a920"/>
+        <COMPID name="Ajuster la vitesse du moteur" mc="Standard.Interaction" uid="f6fdde31-e756-4869-a582-c751bfd02288"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Equilibreuse" mc="Standard.Class" uid="1c530719-2cdf-4e8b-8e0b-634c8668a6d7"/>
+        <COMPID name="Capot" mc="Standard.Class" uid="65de0f69-2875-42ff-adb4-2eac86d9f78c"/>
+        <COMPID name="Moteur" mc="Standard.Class" uid="b18935fd-3150-405d-8c60-246d23b7da5f"/>
+        <COMPID name="étudiant" mc="Standard.Actor" uid="8be584a5-5622-42c6-9c43-70ca2d4220d9"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagramme de classe equilibreuse_TD3" mc="Standard.ClassDiagram" uid="cf8868ae-f83b-49fb-a7a0-7cb084a0c55e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

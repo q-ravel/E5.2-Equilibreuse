@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="EtatCapotChange" version="4">
+  <OBJECT>
+    <ID name="EtatCapotChange" mc="Standard.Signal" uid="cf16a4bf-ae5f-485a-b2f3-ddfd20b48f06"/>
+    <PID name="Capot" mc="Standard.Class" uid="65de0f69-2875-42ff-adb4-2eac86d9f78c"/>
+    <ATTRIBUTES>
+      <ATT name="IsEvent">true</ATT>
+      <ATT name="IsException">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[EtatCapotChange]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

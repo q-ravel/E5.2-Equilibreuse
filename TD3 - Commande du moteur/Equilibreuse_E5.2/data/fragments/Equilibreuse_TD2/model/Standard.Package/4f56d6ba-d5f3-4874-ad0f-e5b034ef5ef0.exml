@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Qt" version="4">
+  <OBJECT>
+    <ID name="Qt" mc="Standard.Package" uid="4f56d6ba-d5f3-4874-ad0f-e5b034ef5ef0"/>
+    <PID name="Equilibreuse_TD2" mc="Standard.Project" uid="ed4d6b82-3f36-4746-9e38-3ffe47c01126"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Qt]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="QPushButton" mc="Standard.Class" uid="a6b4c51e-e26e-4fd1-94ca-6c42dda2b39a"/>
+        <COMPID name="QAbstractButton" mc="Standard.Class" uid="3a741024-639a-4f49-ac6f-615fa62c2f15"/>
+        <COMPID name="QTimer" mc="Standard.Class" uid="3d3e3212-dd03-4afb-850d-07febc23654b"/>
+        <COMPID name="quint8" mc="Standard.DataType" uid="2b3d591a-06f9-4d95-a27d-d1209bbf6ccf"/>
+        <COMPID name="QObject" mc="Standard.Class" uid="0c0cd493-942c-4b97-8404-8d5ccb897311"/>
+        <COMPID name="QDialog" mc="Standard.Class" uid="74a23005-33c7-4071-beeb-b7c5989603cf"/>
+        <COMPID name="QObject *" mc="Standard.DataType" uid="084275f5-9e76-4034-aff1-b772ed1f97f8"/>
+        <COMPID name="QMediaPlayer" mc="Standard.Class" uid="cbe3395d-60ae-4f2a-a948-a5847574c88e"/>
+        <COMPID name="QWidget *" mc="Standard.DataType" uid="db007b12-006a-4e0f-b614-b88cd4e9fabf"/>
+        <COMPID name="QWidget" mc="Standard.Class" uid="5335d8e8-3ba4-4a82-b372-dfe3abb7593c"/>
+        <COMPID name="QMainWindow" mc="Standard.Class" uid="a6b104d2-97d3-4473-953c-a49f5384324f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

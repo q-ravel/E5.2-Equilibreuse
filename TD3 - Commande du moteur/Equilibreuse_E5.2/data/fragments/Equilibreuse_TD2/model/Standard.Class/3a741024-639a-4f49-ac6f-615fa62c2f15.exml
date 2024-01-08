@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="QAbstractButton" version="4">
+  <OBJECT>
+    <ID name="QAbstractButton" mc="Standard.Class" uid="3a741024-639a-4f49-ac6f-615fa62c2f15"/>
+    <PID name="Qt" mc="Standard.Package" uid="4f56d6ba-d5f3-4874-ad0f-e5b034ef5ef0"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[QAbstractButton]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedOperation">
+        <OBJECT>
+          <ID name="text" mc="Standard.Operation" uid="c71e84e2-c87c-4833-bcb3-e84e5653d793"/>
+          <ATTRIBUTES>
+            <ATT name="Concurrency">false</ATT>
+            <ATT name="Final">false</ATT>
+            <ATT name="Passing">MethodOut</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="IsClass">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="Name"><![CDATA[text]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="clicked" mc="Standard.Signal" uid="e8de6e71-6d18-4751-8ea2-f4c57d1da357"/>
+        <COMPID name="pressed" mc="Standard.Signal" uid="d1b2c3e9-9452-4486-a043-db6c036115a7"/>
+        <COMPID name="released" mc="Standard.Signal" uid="6d1e23fa-fa57-4b91-bb42-01f83dc61857"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

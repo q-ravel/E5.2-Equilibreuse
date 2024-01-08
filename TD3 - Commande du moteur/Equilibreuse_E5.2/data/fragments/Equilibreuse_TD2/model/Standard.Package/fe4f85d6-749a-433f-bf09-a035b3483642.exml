@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Cours_CPP" version="4">
+  <OBJECT>
+    <ID name="Cours_CPP" mc="Standard.Package" uid="fe4f85d6-749a-433f-bf09-a035b3483642"/>
+    <PID name="Equilibreuse_TD2" mc="Standard.Project" uid="ed4d6b82-3f36-4746-9e38-3ffe47c01126"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Cours_CPP]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Codeur" mc="Standard.Class" uid="9bd0b8d6-be80-448a-8a68-6ec2660d765f"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagramme de classe Cours_CPP" mc="Standard.ClassDiagram" uid="de6066c0-cadc-4762-8746-2d111f83e0cb"/>
+        <COMPID name="Diagramme de classe Cours_CPP (1)" mc="Standard.ClassDiagram" uid="6d46a91e-7ee2-42b5-a65a-23cfed79a07b"/>
+        <COMPID name="Diagramme de classe Cours_CPP (2)" mc="Standard.ClassDiagram" uid="db4e6379-fe17-420e-87e3-b3a0589ceb94"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Equilibreuse_TD2" version="4">
+  <OBJECT>
+    <ID name="Equilibreuse_TD2" mc="Infrastructure.DiagramSet" uid="92cff065-8625-48dc-aceb-c231ce69fe75"/>
+    <PID name="Equilibreuse_TD2" mc="Standard.Project" uid="ed4d6b82-3f36-4746-9e38-3ffe47c01126"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Equilibreuse_TD2]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
